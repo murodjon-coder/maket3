@@ -10,7 +10,7 @@
     margin: 0 auto;   
 }
 header{
-    background: url(/img/Layer\ 13.png) no-repeat center/cover;
+    background: url(../img/Layer\ 13.png) no-repeat center/cover;
     height: 686px;
     width: 100%;
     position: relative;
